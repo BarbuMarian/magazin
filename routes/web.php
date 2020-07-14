@@ -20,7 +20,11 @@ Route::get('/', function () {
 // aioci sda arada defasdad
 // acii este alta modificare
 //este a 3-a
+<<<<<<< HEAD
 
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+=======
+// samabta seara
+>>>>>>> c2f29b313a6386446a0b2a57c447d108f3f0d625
